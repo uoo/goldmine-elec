@@ -1,0 +1,294 @@
+A10035	TLP3042 Triac Driver Optocoupler (Toshiba)
+A20392	POS-150 Voltage Controlled Oscillator
+A20426	MC34064P-5RA UnderVoltage Sensing Circuit (On Semi)
+A20473	H11D1 Optoisolator High Voltage Transistor (Motorola)
+A20538	PBL3717A Bipolar Stepper Motor Driver (ST)
+G1040	xenon strobe tube ass't (5)		6.95	2	13.90
+G12600	22µf @ 350V				1.00	4	 4.00
+G12714	3µf 450VDC Film Capacitor
+G12720	1µf @ 600V				2.00	2	 4.00
+G12722	2µf @ 600V				2.50	2	 5.00
+G12770	Mini Motor with Gears & Tach Disk
+G12884	.022µF 630V Mylar Cap (Pkg of 8)
+G12915	key fob prox reader			29.95	1	29.95
+G12936	150W photovoltaic solar charger ctrl	11.95	1	11.95
+G12960	18 female machine pins strip (2)	1.00	2	 2.00
+G13136A	Gold Plated Quick Connector - BLACK
+G13137	Gold Plated Quick Connector - RED
+G13279	6 Pin Snap Apart Male Header (Pkg of 10)
+G13303	4" Silicon IC Wafer
+G13318	1nf @ 1.2KV (10)			1.00	10*	 1.00
+G13460	4.7nf @ 10KV				8.00	2	16.00
+G13470	high voltage gas flame ignitor		2.99	2	5.98
+G13491	L298 dual full-bridge driver		1.99	1	 1.99
+G13493	100Meg high voltage divider		1.00	3	 3.00
+G13573	A3951SW Servo Driver IC			2.95	1	 2.95
+G13599	Tiny Inverter Transformer (10)		30.00	10*	30.00
+G13664	White Line cord with Neon Lamp (2)	1.00	1	 1.00
+G13666	Tiny Socket Pin (20)			1.00	5	 5.00
+G13680	"Goble Goble Goble" Sound Box
+G13683	Crazed laughter sound module		0.79	1	 0.79
+G13684	Fast car sound module			0.79	1	 0.79
+G13710	Beautiful Large IC Die (Pkg of 4)
+G13752	Sony Color LCD Module ACX705AK
+G13825	High Voltage Board (Pkg of 3)
+G13930B	Package of 100 Stereo Speaker Connectors
+G14025	Giant CDS Cell Assortment
+G14053	Trimmer Potentiometer Assortment
+G14197	Mini Stepper Motor w/ Driver Schematic
+G14354	spark gap neon tube (3)			0.99	4	3.96
+G14371	female socket pins, 1x8 (3)		0.99	4	3.96
+G14379	special glass tile			0.99	1	0.99
+G14431	2N6517 HV NPN transistor TO-92 (10)	1.49	2	2.98
+G14446	gold plated car battery clamps (pair)	2.98	1	2.98
+G14447	common cathode 2 character alphanum (5)	0.99	8	7.92
+G14464	arcade button switch			1.99	4	7.96
+G14469	10MHz tiny crystal (10)			1.49	1	1.49
+G14475	1/8" Black Pointer Knob
+G14491	high voltage flyback			1.99	4	7.96
+G14506	.043µF 630V Film Cap (Pkg of 8)
+G14507	.1µF 630V Film Cap (Pkg of 8)
+G14509	120 ohm 3 watt resistor (50)		0.99	1	0.99
+G14510	1 ohm 20 watt sandstone resistor (10)	0.99	1	0.99
+G14539	Micro switch (3)			0.99	2	1.98
+G14553	4N37 6-pin optocoupler (3)		0.99	2	1.98
+G14557	grain of wheat lamp (100) 6.3V OL2181	2.99	1	2.99
+G14568	1.8K 5W sandstone resistor (10)		1.49	1	1.49
+G14569	Micro switch w/lever (2)		1.00	2	2.00
+G145A	Pot Hex Nuts (Pkg of 50)
+G14668	OP999 Pin Silicon Photodiode (Pkg of 3) 
+G14700	RCA 30 Ft. Subwoofer Cable DT30SB
+G14703	Molex 22 Pin SMD Connector
+G14722	Agilent POT HEX NUTS (Bag of 100)
+G15193	3 Way Grounding Banana Jack (Pkg of 2)
+G15211	Unusual "POD" Sensor
+G15272	Chrome Plated Chain
+G15307	433MHz Wireless Transmitter Circuit Board
+G15372	Deluxe Potentiometer Assortment
+G15382	TDA8251AH 4ch x 18W Audio Amplifier (Toshiba)
+G15396	Audio Opto Coupler
+G15405	Ceramic Base SI Photodiode Type S875-16R 4F 
+G15421	Solid Tungsten Carbide PC Board Drill Bit Assortment 
+G15425	Our Smallest 4KV Trigger Coil
+G15604	Ultra Thin Square Piezo Element
+G15622	TO220 Thermal Insulator Pad (Pkg of 5)
+G15635	1 Ft Peel & Stick Magnetic Material
+G15801	PIR Sensor
+G15824	Alps 4 Color Head Assembly
+G15897	Unusual Precision Metal Gear (Pkg of 3)
+G15901	Small Unusual Precision Metal Gear (Pkg of 3)
+G15946	Temperature jWarning Lamp (Pkg of 3)
+G16011	Yellow Banana Jack (Pkg of 2)
+G16015	White Miniature Banana Jack
+G16016	Red Miniature Banana Jack
+G16017	Black Miniature Banana Jack
+G16018	Green Miniature Banana Jack
+G16019	Blue Miniature Banana Jack
+G16022	Green 5 Way Gold Plated Binding Post
+G16054	Small Strobe Circuit Board
+G16146	T6 Torx Screwdriver
+G16165	Tiny Vibration/Tilt Switch Type BT411-2
+G16202	Insulated Panel Mount Pin Tip Jack
+G16229	Dual 10K Linear Taper Potentiometer
+G16267	Panasonic EVQ-WTEF2515B Mechanical Rotary Encoder
+G16268	3 Pin Gold Header (Pkg of 20)
+G16279	Faulhaber 141:1 6VDC Gearhead Motor
+G16280	RF-520C-17410 Efficient DC Motor
+G1629	1Meg high voltage precision (10)	8.00	1	 8.00
+G16300	Precision Mini Gearhead Motor Sayama 12SM-AT3
+G16328	Gold Plated RCA Audio Video Cable
+G16329	Flash Camera Inside Assembly
+G16340	Long Stainless Steel Tube
+G16417	Deluxe Lighted Lever Switch with Red and Green LEDs
+G16458	5W 8ohm 2 1/4" x 5" Full Range Speaker
+G16461	Bright Green 120VAC Electroluminescent Panel
+G16469	Gigantic 9.84" Long Xenon Strobe Tube
+G16478	Gear Motor w/Encoder/Anti-Backlash Nut/Lead Screw Asb
+G16490	Precision Crystal Oscillator Assortment
+G16492	Bag of 500 Miniature Lamps for Pinball Machines #2182 14V 0.3A
+G16618	Powerful 12V 50Watt Dichroic Reflector Lamp
+G16684	Surprise Assortment of 4 Vintage Analog Meters
+G16713	63 Tin 37 Lead Rosin Core Solder
+G16716	60Watt Heavy Duty Soldering Iron
+G16729	Ultra Reliable Hospital "Call" Switch
+G16734	0-3.5pf Adjustable Capacitor
+G1676	Cigarette Lighter Power Board (Pkg of 2)
+G16821	Ferrite High Voltage Inverter Transformer
+G16823	Hollow PC Board Pin Terminals (Bag of 1000)
+G16828	Super Prototype PC Board
+G16840	Miniature 45ohm Speaker
+G16847	Solder Practice PC Boards (Set of 3)
+G16866	Parrallax Power CSE187L Current Sense Transformer
+G16867	Swithcraft RN112APC 1/4" Mono Jack
+G16878	Battery Indicator Lamp
+G16897	Miniature Pager Motor Assortment (Pkg of 3)
+G16900	DPDT "Snap in" Heavy Duty Momentary Rocker Switch
+G16901	Multimec Pushbutton Switch
+G16913	Mini Rare Earth Samarium Cobalt Magnet (pack of 45)
+G16918	Compact 47µF 450V Radial Electrolytic Capacitor
+G16942	For LED Bright SMD Green Light Display
+G16948	Rare Blue Neon Bulb
+G16976	Pulse Engineering PE-51718 20mH Current Sense Induct 
+G16983	Low Profile 8 Pin Round IC Socket
+G16992	Pactec HM-9VM "Bone" Colored Project Case
+G17014	5ft CAT5 Patch Cable
+G17046	6 foot x 3/8" Black Thera-Band Tubing 
+G17052	SmartCard Reader Socket (8pin + 2)
+G17063	8 pin TO-99 IC Socket
+G17064	12 Position Alcoswitch MRS-1-12C Rotary Switch
+G17099	Super Quality Test Probes
+G17105	12VDC 300mA Wall Adapter
+G17128	Music Equipment Knobs for 1/4" Knurled Shafts [green]
+G17130	Music Equipment Knobs for 1/4" Knurled Shafts [black]
+G17132	Music Equipment Knobs for 1/4" Knurled Shafts [red]
+G17146	Stanley Micro Tiny Phototransistor PS5022
+G17148	Blue LED Assortment
+G17152	Mini Gear Assortment
+G17159	10 Piece 1/8" Shaft Precision Knobs Made for the Military
+G17161	6400pf 1.2 kv High Voltage Film Cap
+G17201	High Voltage Opto Coupler - H11G1
+G17211	Beautiful Square Silicon Wafers
+G17214	Music Equipment Knobs for 1/4" Knurled Shafts [blue]
+G17217	Music Equipment Knobs for 1/4" Knurled Shafts [white]
+G17222	Powerful Gearhead Motor with Wheel
+G17225	Ginormous Surprise Box
+G17225A	Handy Power Strip Breadboard
+G17226	Handy Power Strip Breadboard
+G17248	Blue Tip Jacks
+G17249	Yellow Tip Jacks
+G17250	Black Tip Jack
+G17263	0.003µf 4KV Film Capacitor
+G17287	Heavy Duty Motor with Encoder
+G17294	Handy 20 Drill Bit Set for PC Boards
+G17306	Our Largest Supercap - 10 Farads at 1.8VDC
+G17308	Hankscraft HM11P Solar Motor
+G17318	TDK 100µH Fixed Inductor - Package of 4
+G17327	High Voltage Precision 100Kohm Metal Oxide Resistor
+G17329	Miniature 12.288MHz Crystal (2 pkg)
+G17336	Lightweight Mini USB Charger for: Cell Phones, MP3 Players, PDA's
+G17350	Battery Operated High Voltage Generator
+G17365	Glass Geiger Mueller Tube
+G17367	Thermal Print Head (used)
+G17368	Stepper Motor Assortment
+G17372	Super Handy Blister Packaging Cutters
+G17382	Mini Drill Press for PC Boards
+G17393	Standard Panel Mount DPDT 5A 125V Toggle Switch
+G17401	Handy Nut Driver Set
+G17623	Super Capacitor (0.22 Farad 5.5VDC)
+G17654	Ultrastylish Lighted Pushbutton Switch
+G17659	High Voltage Transformer
+G17686	Heavy Duty 20" 10 Piece Alligator Clip Lead Set 
+G17744	High Voltage Flyback Transformer
+G17749	Hyundai MC16102-B 1 Line 16 Character Display
+G17819	675mW Audio Power Amplifier (Part# LM4864M) 
+G1783	120VAC (7.5kV Output) Negative Ion Generator
+G17847	CR2032 Lithium Coin Cell Battery 
+G17848	"Flickering Candle" Yellow LED with Lens
+G17852	4.5" Sq Beautiful Polycrystalline Slice
+G17877	Very Unique Gearhead Motor with Arms
+G17879	12VDC NEGATIVE ION GENERATOR
+G17894  Pkg of 4 Cassette Tape Player Drive Belts
+G179	Bag of Heat Shrink
+G17927	Professional Alarm Keyboard
+G17930	Maxwell BCAP 3000E 3000 Farad 2.7VDC BOOSTCAP (Used)
+G17932	Boostcap® Side by Side Mounting Bracket
+G17940	Vintage Glass Insulators - Type B - 4" Tall x 3.2" Dia.
+G17948	Panasonic 0.33uf 250VDC Film Aps! Pack of 100
+G17950	Spatial Light Modulator LCD Projection Lens UX20613
+G17960	Maxwell 2600 Farad 2.5VDC Boostcap
+G17991	Murata DE7100 FZ 0.0047µF 400VAC XY Ceramic Capacitor (Pkg of 200)
+G17992	Gear Drive Ball Bearing Antique Tuning Capacitor
+G18008	.033uF 1000V Axial Film Capacitor by Illinois Capacitor
+G18016	Our Best Metal Standoff/Spacer Assortment
+G18017	Small IC Masks
+G18042	Our Best Raytheon Black Pointer Knob for 1/8" Shafts
+G18059	Heavy Duty Solid Glass Insulators
+G18060	Unique Piezo Microphone for Blood Pressure Monitor
+G18065	Stereo 2-Channel 31 Band Audio Equalizer Front Control Panel
+G18072	Extremely Efficient 0.5V Solar Motor
+G18079	Highly Polished 4" Diameter Silicon Wafer
+G18145	LCD Mystery Module 
+G18151	Easy Solder Solar Cell Pieces
+G18153	Glass Solar Panel Blowout
+G18187	FPT100 Phototransistor (Pkg of 4)
+G18197	Firing Mechanism
+G18201	1.5" Diameter Mylar Cone Speaker
+G18302	Red and Black Heavy Duty "Screw On" Test Clips
+G18334	TDA7490 25W + 25W Stereo Class-D Amplifier IC
+G18344	Precision "Star 0.8 mm" Tool
+G18346	1 Farad 2.5VDC Aerogel Super Capacitor
+G18401	Unusual Prism on Metal Holder
+G18421	DF01M 100V 1.5Amp Bridge Rectifier
+G18423	Sanyo Denki Router Fan/Heatsink Part# 109X9212PT0H01
+G18428	Unusual Dialight Display Board Part# 561-0006-803
+G18429	Miniature Precision Floppy Motor
+G18501	Nichia Full Color 5mm LED Type NSTM515AS
+G18502	Dual PWM Motor Driver - House# Number Marked (Allegro UDN296
+G18532	Beautiful IC Die (Pkg of 2)
+G18723	1% Precision Resistor Assortment (Asst of 50)
+G18743	Giant Electronic Exercise Machine Board
+G18755	Polystyrene (Coupling/Tone) Capacitor Assortment Asst of 10 
+G18773	Small Switching Power Supply
+G18799	TDA7563B 4x50W Quad Power Amplifier IC 
+G18804	Giant Alphanumeric and Dot Display Board
+G18956A (Pkg of 5) 1/16 Chip Breaker PCB Router Bits
+G19075	22AWG High Quality Stranded Insulated Wire
+G19077	ST3356 12VDC Thermolelectric Cooler
+G19132	Powerful Spiral Strobe Tubed
+G19138  B1280PTV1-A 12VDC Apple Blower Fan
+G19140	2 Color Flickering LED Package
+G1922	Large IC Die
+G19539  EL Sequencer/Driver
+G20762A (Pkg 3) Used Gamma 27 12VDC Blower Fan
+G20870A (Pkg 10) 5Watt, 11 Ohm, Power Resistor
+G2093	miniature firing mech			3.95	1	 3.95
+G21037A (Pkg 2) TDA2002 8W Car Radio Amplifier IC
+G21090  Ultra Miniature Delta BFBO305HA, 5VDC, Brushless Blower
+G2116	side cutting pliers			5.95	1	 5.95
+G2121	C7 cord (2)				0.99	2	1.98
+G21320  (Pkg 6) Large Ferrite E Core
+G21322  (Pkg 4) Medium Size Ferrite Toroid Cores
+G21501  Mini Servo for Arduino/Robots/RC
+G21669  (Pkg 4) Magnetics� 55048 Ferrite Core
+G21998  (Pkg 5) Glass Vial for Holding Small Gold Nuggets
+G2200	Electronic Surprise Box
+G22006  (Pkg 10) 0.01uF 1KV Epoxy Dipped Disc Ceramic
+G22078  Subminiature SPST Panel Mount Toggle Switch
+G22093  (Pkg 24) Nyulon 6-32 3/4" Hex Standoff
+G22208  (Pkg 20) Meder KSK-1A66 Tiny Reed Switch
+G22255  AVC Super Efficient Miniature 5VDC Blower
+G2309	Wafer Thin Pushbutton Switches (Pkg of 10)
+G2859	toko coil				1.00	2	 2.00
+G2903	micro G-M tube				34.95	1	34.95
+G3128	RCA-F to RCA-F adaptor (2)		1.00	1	 1.00
+G3203	Handy Wire Nuts (Pkg of 20)
+G3279	10K Slide Pot (Pkg of 4)
+G3933	330µF 160V Electrolytic Capacitor
+G4007	2-56 nuts and bolts (8)			1.00	4	 4.00
+G4481	4VDC 0.100 Amp Polycrystalline Solar Panel
+G4518	Gear Head Assembly
+G4521	Heavy Duty Air Solenoid
+G4567	Quorum A-160 Passive Infrared Detector
+G4584A	Micro Strobe Brains
+G4584A	micro strobe brains (8)			5.00	8*	 5.00
+G4721	4W Audio Power Amplifier TDA1013B
+G5514	tiny trackball				0.99	6	5.94
+G6129	nylon hardware bag (50 pcs)		1.00	2	 2.00
+G6183	62K 3W Power Resistor (Pkg of 5)
+G7400	.033µF 250V Mylar Capacitor (Pkg of 20)
+G7852	1 3/16" strobe tube (100)		25.00	100*	25.00
+G8669	Reflective IR Emitter/Sensor
+G8729	100uF 450V Electrolytic Capacitor
+G9321	Super Electronic Surprise Box
+G961	Router Bit Assortment
+G9695	12VDC (15kV Output) Negative Ion Generator
+G9786	dual meter				2.98	1	 2.98
+G9879	4KV trigger coil			1.00	4	 4.00
+GP23	OPTO Assortment
+GP51	(Pkg of 10) Ferrite Cores / Bars
+GP55	(Pkg of 12) Super Bright BiPolar LEDs
+GP6		Header Assortment
+GP62	(Pkg of 6) Toroid Surprise
+GP63	Small Incandescent Lamps
+GP72	Test Clip Assortment
+GP78	Nylon Wire/Cable Hold Down Assortment
